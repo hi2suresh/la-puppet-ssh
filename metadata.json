@@ -1,0 +1,15 @@
+{
+  "name": "hi2suresh-ssh",
+  "version": "0.1.0",
+  "author": "hi2suresh",
+  "summary": "Sample Test Module for Puppet",
+  "license": "Apache-2.0",
+  "source": "https://github.com/hi2suresh/la-puppet-ssh.git",
+  "project_page": "https://github.com/hi2suresh/la-puppet-ssh",
+  "issues_url": "https://github.com/hi2suresh/la-puppet-ssh/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
